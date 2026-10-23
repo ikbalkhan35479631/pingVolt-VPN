@@ -1,0 +1,6 @@
+{
+  "name": "PingVolt VPN",
+  "description": "Ultra-low latency VPN with real-time ping telemetry, server latency benchmarks, gaming mode, and optimized network routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
